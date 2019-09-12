@@ -1,0 +1,36 @@
+html,body{
+	height: 100%;
+	width: 100%;
+}
+.navbar {
+	background-color: #D5D5D5;
+	padding: 1% 0%;
+	font-size: 1.2em; 
+}
+.navbar-brand {
+	min-height: 55px;
+	padding: 0 25px 5px;
+}
+.navbar-default .navbar-nav li a {
+	color:#D5D5D5;
+}
+.navbar-default .navbar-nav li a:hover, .navbar-default .navbar-nav li a.active{
+	color: #FFF;
+} 
+.landing-text {
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}
+.landing-text{
+	font-size: 500%;
+	font-weight: 700%;
+}
+.padding{
+	padding: 80px 0;
+}
+.form-actions {
+    margin: 0;
+    background-color: transparent;
+    text-align: center;
+}
